@@ -1,6 +1,6 @@
 # A4app
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.10.
+This project was generated wit [Angular CLI](https://github.com/angular/angular-cli) version 1.7.10.
 
 ## Development server
 
